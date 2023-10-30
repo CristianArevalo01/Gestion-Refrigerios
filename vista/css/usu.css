@@ -1,0 +1,33 @@
+.dat{
+    position: relative;
+    top: 300px;
+    left: 200px;
+    width: 500px;
+    transform: translate(-50%, -50%);
+    height: 500px;
+    background-color: transparent;
+    border-radius: 9px;
+}
+.perf{
+    padding: 0 0 40px 0;
+}
+
+.int{
+    margin-top: 30px;
+    width: 200px;
+    font-size: 20px;
+    height: 50px;
+    padding: 0 5px;
+    outline: none;
+    border-radius: 10px;
+    background: linear-gradient(145deg, #cacaca, #f0f0f0);
+    box-shadow:  16px 16px 32px #cecece,
+                 -16px -16px 32px #f2f2f2;
+   text-align: center;
+}
+.tit{
+    color: #cecece;
+    font-size: 25px;
+    pointer-events: none;
+
+}
